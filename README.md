@@ -1,9 +1,8 @@
 ### Hey, I'm Gavin 👋🏼 
 
-- I’m currently learning data strucutes and algorithms 📚
+- I’m currently learning data structures and algorithms 📚
 
 <!--
-**gavinkhung/gavinkhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
